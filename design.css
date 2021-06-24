@@ -1,0 +1,37 @@
+h1{
+    text-align:center;
+    color:rgb(15, 207, 25)
+}
+body{
+    background-image:url("885060.jpg") ;
+    background-size: cover;
+}
+.login{
+
+    width: 700;
+    height:600;
+    margin-left:300
+}
+.animal1{
+    width: 700;
+    height:600;
+    margin-left:300
+
+
+}
+.frog{
+    margin-top:100;
+    width: 700;
+    height:600;
+    margin-left:300
+
+}
+.div1{
+    border:crimson solid
+}
+.div2{
+    margin-top:100;
+    border:crimson solid
+
+
+}

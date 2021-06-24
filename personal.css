@@ -1,0 +1,100 @@
+body{
+    background-image: url("885060.jpg");
+    background-size: cover;
+    
+
+    
+}
+.navbar{
+    width: 100%;
+    height:60;
+    background-color:rgb(255, 255, 255);
+    border-bottom: 5px cyan solid;
+    
+    
+}
+.name{
+    position: absolute;
+    float: left;
+    color:darkgoldenrod;
+    font-size: 30;
+    margin-top:10;
+    animation:text 3s 1
+}
+@keyframes text{
+0%{
+    top:-30;
+    left:0
+}
+25%{
+    top:50;
+    left:40
+}
+50%{
+    top:30;
+    left:40
+}
+75%{
+    top:30;
+    left:20
+}
+100%{
+    left:0;
+    top:-30
+}
+
+}
+    
+
+a{
+    text-decoration: none
+}
+ul{
+    display: inline-block;
+    margin-left: 100;
+}
+li{
+    display: inline-block;
+    padding:0 15 0 15;
+    font-family: sans-serif;
+    font-size: 20;
+    margin-left: 200;
+    border-bottom: solid transparent;
+}
+.home{
+    color:rgb(13, 238, 152);
+    border-bottom: solid rgb(13, 238, 152);
+    
+    
+}
+li:hover{
+    color:rgb(13, 238, 152);
+    
+
+}
+.contact:hover{
+    color:rgb(13, 238, 152);
+    border-bottom: solid rgb(13, 238, 152);
+
+}
+.Designs:hover{
+    color:rgb(13, 238, 152);
+    border-bottom: solid rgb(13, 238, 152);
+
+}
+.welcome{
+    width:290;
+    margin-left: 42%;
+    margin-top: 50;
+    font-size: 30;
+    color: chocolate;
+    border: solid 5px purple
+}
+.main{
+    font-size: 25;
+    font-family:Apple Chancery, cursive;
+    color:rgb(233, 16, 16)
+}
+
+
+

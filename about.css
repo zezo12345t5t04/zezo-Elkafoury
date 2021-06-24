@@ -1,0 +1,56 @@
+body{
+    background-image: url("885060.jpg");
+    background-size: cover;
+    
+}
+img{
+    width:80;
+    height:80;
+    margin-left: 50;
+    display:flex;
+    margin-top:-30
+
+}
+a{
+    display: flex;
+    text-decoration: none;
+    border-bottom: solid  transparent;
+    color:blue
+    
+}
+a:hover{
+    color: #e7c011;
+    
+    
+}
+.face{
+    display: flex;
+    margin-top: 100;
+    margin-left: 400;
+    font-size: 40;
+}
+.tele{
+    margin-left: 400;
+    font-size: 40;
+}
+b{
+
+    margin-left: 420;
+    margin-top:-40;
+}
+.first{
+    margin-top: 230;
+}
+h1{
+    color:crimson
+    
+}
+.third{
+    margin-top:-360;
+    margin-left:400
+
+}
+.em{
+    color: crimson;
+    display: flex;
+}
